@@ -1,0 +1,110 @@
+body{
+font-family: "Edu AU VIC WA NT Pre";
+font-style: italic;
+background-color:  #fff8f0;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(36, 15, 0);
+    color: white;
+}
+a{
+padding: 25px;
+
+color: white;
+text-decoration-line: none;
+text-align: center;
+ }
+
+p.inline{
+   
+    padding: 25px;
+background-color:maroon;
+    text-align: center;
+}
+a:hover{
+
+background-color: white;
+color: black;
+}
+
+div.part1{
+    background-color: rgb(228, 208, 211);
+border: solid,rgb(228, 208, 211), ;
+text-align: center;
+width: 1470px;
+height:500px;
+margin:auto ;
+}
+img{
+width: 750px;
+height: 400px;
+
+}
+
+div.part2{
+
+    border: solid,  #fff8f0;
+    margin:auto ;
+    
+    
+}
+.tool{
+    margin:auto ;
+    width: 1450px;
+    height:300px;
+}
+ .رقم:hover{
+    background-color: green;
+
+ }
+.اسم:hover{
+background-color: yellow;
+}
+
+.black{
+
+background-color: black;
+margin:auto ;
+width: 1450px;
+height:600px
+
+
+}
+h2.black2{
+color: white;
+text-align: center;
+
+
+}
+
+#black2{
+text-align: center;
+
+}
+
+#black3{
+padding: 15px;
+    background-color: rgb(181, 158, 117);
+}
+
+img.small{
+padding: 100px 100px 100px 350px; 
+width: 725px;
+height: 300px;
+}
+.finish{
+    text-align: center;
+    width: 1450px;
+background-color: rgb(103, 48, 5);
+margin:auto ;
+height: 50px;
+}
+p.finish2{
+    text-align: center;
+position: absolute;
+color: white;
+width: 1600px;
+
+}
